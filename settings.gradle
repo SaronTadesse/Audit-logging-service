@@ -1,0 +1,6 @@
+rootProject.name = 'saron-audit-logging-service'
+include 'audit-logging-service-persistance'
+include 'audit-logging-service-model'
+include 'audit-logging-service-flow'
+include 'audit-logging-service-controller'
+
